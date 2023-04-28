@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HelloWorldRED"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "My first framwework."
 
   # This description is used to generate tags and improve search results.

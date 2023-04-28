@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HelloWorldRED"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "My first framwework."
 
   # This description is used to generate tags and improve search results.
@@ -84,7 +84,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.vendored_frameworks = 'HelloWorldRED/HelloWorldRED.xcframework'
+  spec.vendored_frameworks = 'HelloWorldRED/HelloWorld.xcframework'
   spec.source       = { :git => "https://github.com/raghueswar55/SampleUniversalFramework.git", :tag => "#{spec.version}" }
 
 
